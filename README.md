@@ -27,18 +27,18 @@
 - [ ] [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 ### Intermediate
-- [ ] Client-side JavaScript frameworks
-- [ ] Client-side web APIs
-- [ ] Language overview
-- [ ] JavaScript data structures
-- [ ] Equality comparisons and sameness
-- [ ] Enumerability and ownership of properties
-- [ ] Closures
+- [ ] [Client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks)
+- [ ] [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+- [ ] [Language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
+- [ ] [JavaScript data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+- [ ] [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+- [ ] [Enumerability and ownership of properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
+- [ ] [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 ### Advanced
-- [ ] Inheritance and the prototype chain
-- [ ] Memory Management
-- [ ] Concurrency model and Event Loop
+- [ ] [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [ ] [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management)
+- [ ] [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
 
 ## References
 
