@@ -1,30 +1,30 @@
 # [MDN Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Complete beginners
-- [ ] JavaScript basics
-- [ ] JavaScript first steps
-- [ ] JavaScript building blocks
-- [ ] Introducing JavaScript objects
+- [ ] [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [ ] [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+- [ ] [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
+- [ ] [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 ### JavaScript Guide
-- [ ] Introduction
-- [ ] Grammar and types
-- [ ] Control flow and error handling
-- [ ] Loops and iteration
-- [ ] Functions
-- [ ] Expressions and operators
-- [ ] Numbers and dates
-- [ ] Text formatting
-- [ ] Regular expressions 
-- [ ] Indexed collections
-- [ ] Keyed collections
-- [ ] Working with objects
-- [ ] Using classes
-- [ ] Using promises
-- [ ] JavaScript typed arrays
-- [ ] Iterators and generators
-- [ ] Meta programming
-- [ ] JavaScript modules
+- [ ] [Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+- [ ] [Grammar and types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
+- [ ] [Control flow and error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+- [ ] [Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [ ] [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [ ] [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators)
+- [ ] [Numbers and dates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Numbers_and_dates)
+- [ ] [Text formatting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Text_formatting)
+- [ ] [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
+- [ ] [Indexed collections](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections)
+- [ ] [Keyed collections](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections)
+- [ ] [Working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)
+- [ ] [Using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
+- [ ] [Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+- [ ] [JavaScript typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Typed_arrays)
+- [ ] [Iterators and generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators)
+- [ ] [Meta programming](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming)
+- [ ] [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 ### Intermediate
 - [ ] Client-side JavaScript frameworks
